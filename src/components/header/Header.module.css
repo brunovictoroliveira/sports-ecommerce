@@ -1,36 +1,20 @@
 .header {
   width: 100%;
   height: 60px;
-  background-color: #f8f9fa;
+  background-color: white;
   display: flex;
   flex-direction: row;
   align-items: center;
-  justify-content: space-between;
-}
-
-.navList {
-  list-style: none;
-  display: flex;
-  gap: 15px;
-  margin: 0;
-  padding: 0;
-}
-
-.navItem {
-  font-size: 16px;
-  color: #343a40;
-  text-decoration: none;
+  justify-content: space-evenly;
 }
 
 .logo {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: auto;
+  max-width: 150px;
+  width: 100%;
   height: auto;
   padding: 12px;
-  background-color: var(--darkgray);
-  color: var(--red);
-  font-size: 2rem;
-  font-family: "Arial Black", sans-serif;
+  background-color: var(--black);
 }

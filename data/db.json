@@ -5,8 +5,8 @@
       "name": "Camisa Flamengo Oficial 2025",
       "category": "camisas",
       "team": "Flamengo",
-      "price": 249.90,
-      "image": "camisa-flamengo.jpg",
+      "price": 249.9,
+      "image": "../assets/products/shirt-male-flamengo-2025.png",
       "description": "Camisa oficial do Flamengo para temporada 2025",
       "inStock": true
     },
@@ -15,8 +15,8 @@
       "name": "Camisa Vasco da Gama Oficial 2025",
       "category": "camisas",
       "team": "Vasco",
-      "price": 239.90,
-      "image": "camisa-vasco.jpg",
+      "price": 239.9,
+      "image": "../assets/products/shirt-male-vasco-da-gama-2025.png",
       "description": "Camisa oficial do Vasco da Gama para temporada 2025",
       "inStock": true
     },
@@ -25,8 +25,8 @@
       "name": "Camisa Botafogo Oficial 2025",
       "category": "camisas",
       "team": "Botafogo",
-      "price": 229.90,
-      "image": "camisa-botafogo.jpg",
+      "price": 229.9,
+      "image": "../assets/products/shirt-male-botafogo-2025.png",
       "description": "Camisa oficial do Botafogo para temporada 2025",
       "inStock": true
     },
@@ -35,8 +35,8 @@
       "name": "Camisa Fluminense Oficial 2025",
       "category": "camisas",
       "team": "Fluminense",
-      "price": 219.90,
-      "image": "camisa-fluminense.jpg",
+      "price": 219.9,
+      "image": "../assets/products/shirt-male-fluminense-2025.png",
       "description": "Camisa oficial do Fluminense para temporada 2025",
       "inStock": true
     },
@@ -45,7 +45,7 @@
       "name": "Tênis Caminhada Pro Comfort",
       "category": "tênis",
       "subcategory": "caminhada",
-      "price": 189.90,
+      "price": 189.9,
       "image": "tenis-caminhada-pro.jpg",
       "description": "Tênis confortável para caminhadas diárias com tecnologia de amortecimento",
       "inStock": true
@@ -55,7 +55,7 @@
       "name": "Tênis Caminhada Urban Style",
       "category": "tênis",
       "subcategory": "caminhada",
-      "price": 159.90,
+      "price": 159.9,
       "image": "tenis-caminhada-urban.jpg",
       "description": "Tênis casual para caminhadas urbanas",
       "inStock": true
@@ -65,7 +65,7 @@
       "name": "Tênis Corrida Speed Runner",
       "category": "tênis",
       "subcategory": "corrida",
-      "price": 299.90,
+      "price": 299.9,
       "image": "tenis-corrida-speed.jpg",
       "description": "Tênis de corrida profissional com tecnologia de amortecimento avançada",
       "inStock": true
@@ -75,7 +75,7 @@
       "name": "Tênis Corrida Elite Performance",
       "category": "tênis",
       "subcategory": "corrida",
-      "price": 349.90,
+      "price": 349.9,
       "image": "tenis-corrida-elite.jpg",
       "description": "Tênis de corrida de alta performance para atletas",
       "inStock": true
@@ -84,7 +84,7 @@
       "id": 9,
       "name": "Redley Casual Classic",
       "category": "redley",
-      "price": 99.90,
+      "price": 99.9,
       "image": "redley-classic.jpg",
       "description": "Redley casual clássico para uso diário",
       "inStock": true
@@ -93,7 +93,7 @@
       "id": 10,
       "name": "Redley Canvas Streetwear",
       "category": "redley",
-      "price": 119.90,
+      "price": 119.9,
       "image": "redley-canvas.jpg",
       "description": "Redley em canvas com estilo streetwear moderno",
       "inStock": true
@@ -102,7 +102,7 @@
       "id": 11,
       "name": "Redley Premium Leather",
       "category": "redley",
-      "price": 179.90,
+      "price": 179.9,
       "image": "redley-leather.jpg",
       "description": "Redley em couro premium com acabamento refinado",
       "inStock": true
@@ -111,7 +111,7 @@
       "id": 12,
       "name": "Redley Customizado Rio",
       "category": "redley",
-      "price": 139.90,
+      "price": 139.9,
       "image": "redley-custom-rio.jpg",
       "description": "Redley customizado com temática do Rio de Janeiro",
       "inStock": true

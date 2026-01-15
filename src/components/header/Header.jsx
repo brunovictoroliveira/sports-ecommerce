@@ -1,30 +1,16 @@
 import styles from "./Header.module.css";
+import Navbar from "./Navbar.jsx";
+import SearchBar from "./SearchBar.jsx";
+import Logo from "../../assets/Logo.png";
 
 function Header() {
   return (
     <header className={styles.header}>
       <div className={styles.logo}>
-        <h1 className={styles.title}>GGMIX</h1>
+        <img src={Logo} alt="GGMIX Logo" />
       </div>
-      <nav className={styles.nav}>
-        <ul className={styles.navList}>
-          <li className={styles.navItem}>
-            <a className={styles.navLink} href="/">
-              Início
-            </a>
-          </li>
-          <li className={styles.navItem}>
-            <a className={styles.navLink} href="/products">
-              Produtos
-            </a>
-          </li>
-          <li className={styles.navItem}>
-            <a className={styles.navLink} href="/cart">
-              Carrinho
-            </a>
-          </li>
-        </ul>
-      </nav>
+      <SearchBar />
+      <Navbar />
     </header>
   );
 }

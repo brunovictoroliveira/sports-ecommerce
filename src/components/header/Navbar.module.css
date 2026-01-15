@@ -1,0 +1,18 @@
+.navList {
+  list-style: none;
+  display: flex;
+  gap: 15px;
+
+  border: 2px solid lightsalmon;
+}
+
+.navItem {
+  font-size: 16px;
+  color: #343a40;
+  text-decoration: none;
+
+  background-color: lightgreen;
+
+  border: 2px solid lightskyblue;
+  padding: 8px 12px;
+}

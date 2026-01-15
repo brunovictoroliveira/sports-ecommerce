@@ -1,0 +1,19 @@
+.container {
+  width: 100%; /* Ocupa a tela toda em celulares */
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem; /* Reduzido de 4rem para não espremer no mobile */
+
+  display: grid;
+  /* Cria colunas automáticas de no mínimo 250px */
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+  justify-items: center; /* Centraliza os cards em cada célula */
+}
+
+@media (max-width: 768px) {
+  .container {
+    padding: 1rem;
+    gap: 15px;
+  }
+}
