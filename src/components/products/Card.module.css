@@ -1,0 +1,90 @@
+.title {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+
+    width: 200px;
+    height: 300px;
+    padding: 1rem;
+    background-color: #f9f9f9;
+
+    border: 2px solid lightgrey;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.button {
+    padding: 0.5rem 1rem;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #0056b3;
+}
+
+.image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.description {
+    font-size: 1rem;
+    color: #555;
+}
+
+.price {
+    font-size: 1.2rem;
+    color: #28a745;
+    font-weight: bold;
+}
+
+.rating {
+    color: #ffc107;
+    font-size: 1rem;
+}
+
+.stock {
+    font-size: 0.9rem;
+    color: #dc3545;
+}
+
+.discount {
+    font-size: 0.9rem;
+    color: #17a2b8;
+}
+
+.buttonAddToCart {
+    background-color: #28a745;
+    color: white;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.buttonAddToCart:hover {
+    background-color: #218838;
+}
+
+.buttonWishlist {
+    background-color: #ffc107;
+    color: white;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.buttonWishlist:hover {
+    background-color: #e0a800;
+}

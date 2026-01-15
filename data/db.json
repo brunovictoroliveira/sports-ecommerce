@@ -1,0 +1,161 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Camisa Flamengo Oficial 2025",
+      "category": "camisas",
+      "team": "Flamengo",
+      "price": 249.90,
+      "image": "camisa-flamengo.jpg",
+      "description": "Camisa oficial do Flamengo para temporada 2025",
+      "inStock": true
+    },
+    {
+      "id": 2,
+      "name": "Camisa Vasco da Gama Oficial 2025",
+      "category": "camisas",
+      "team": "Vasco",
+      "price": 239.90,
+      "image": "camisa-vasco.jpg",
+      "description": "Camisa oficial do Vasco da Gama para temporada 2025",
+      "inStock": true
+    },
+    {
+      "id": 3,
+      "name": "Camisa Botafogo Oficial 2025",
+      "category": "camisas",
+      "team": "Botafogo",
+      "price": 229.90,
+      "image": "camisa-botafogo.jpg",
+      "description": "Camisa oficial do Botafogo para temporada 2025",
+      "inStock": true
+    },
+    {
+      "id": 4,
+      "name": "Camisa Fluminense Oficial 2025",
+      "category": "camisas",
+      "team": "Fluminense",
+      "price": 219.90,
+      "image": "camisa-fluminense.jpg",
+      "description": "Camisa oficial do Fluminense para temporada 2025",
+      "inStock": true
+    },
+    {
+      "id": 5,
+      "name": "Tênis Caminhada Pro Comfort",
+      "category": "tênis",
+      "subcategory": "caminhada",
+      "price": 189.90,
+      "image": "tenis-caminhada-pro.jpg",
+      "description": "Tênis confortável para caminhadas diárias com tecnologia de amortecimento",
+      "inStock": true
+    },
+    {
+      "id": 6,
+      "name": "Tênis Caminhada Urban Style",
+      "category": "tênis",
+      "subcategory": "caminhada",
+      "price": 159.90,
+      "image": "tenis-caminhada-urban.jpg",
+      "description": "Tênis casual para caminhadas urbanas",
+      "inStock": true
+    },
+    {
+      "id": 7,
+      "name": "Tênis Corrida Speed Runner",
+      "category": "tênis",
+      "subcategory": "corrida",
+      "price": 299.90,
+      "image": "tenis-corrida-speed.jpg",
+      "description": "Tênis de corrida profissional com tecnologia de amortecimento avançada",
+      "inStock": true
+    },
+    {
+      "id": 8,
+      "name": "Tênis Corrida Elite Performance",
+      "category": "tênis",
+      "subcategory": "corrida",
+      "price": 349.90,
+      "image": "tenis-corrida-elite.jpg",
+      "description": "Tênis de corrida de alta performance para atletas",
+      "inStock": true
+    },
+    {
+      "id": 9,
+      "name": "Redley Casual Classic",
+      "category": "redley",
+      "price": 99.90,
+      "image": "redley-classic.jpg",
+      "description": "Redley casual clássico para uso diário",
+      "inStock": true
+    },
+    {
+      "id": 10,
+      "name": "Redley Canvas Streetwear",
+      "category": "redley",
+      "price": 119.90,
+      "image": "redley-canvas.jpg",
+      "description": "Redley em canvas com estilo streetwear moderno",
+      "inStock": true
+    },
+    {
+      "id": 11,
+      "name": "Redley Premium Leather",
+      "category": "redley",
+      "price": 179.90,
+      "image": "redley-leather.jpg",
+      "description": "Redley em couro premium com acabamento refinado",
+      "inStock": true
+    },
+    {
+      "id": 12,
+      "name": "Redley Customizado Rio",
+      "category": "redley",
+      "price": 139.90,
+      "image": "redley-custom-rio.jpg",
+      "description": "Redley customizado com temática do Rio de Janeiro",
+      "inStock": true
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "camisas",
+      "displayName": "Camisas de Times"
+    },
+    {
+      "id": 2,
+      "name": "tênis",
+      "displayName": "Tênis Esportivos"
+    },
+    {
+      "id": 3,
+      "name": "redley",
+      "displayName": "Redleys"
+    }
+  ],
+  "teams": [
+    {
+      "id": 1,
+      "name": "Flamengo",
+      "color": "#CE1126"
+    },
+    {
+      "id": 2,
+      "name": "Vasco",
+      "color": "#000000"
+    },
+    {
+      "id": 3,
+      "name": "Botafogo",
+      "color": "#1E90FF"
+    },
+    {
+      "id": 4,
+      "name": "Fluminense",
+      "color": "#00A651"
+    }
+  ],
+  "cart": [],
+  "orders": []
+}
