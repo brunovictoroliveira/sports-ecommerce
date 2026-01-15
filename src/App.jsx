@@ -1,13 +1,15 @@
+import Header from "./components/Header/Header";
+import ProductList from "./components/products/ProductList"; // Ajuste o caminho conforme sua pasta
 import "./App.css";
-import Header from "./components/header/Header.jsx";
-import ProductList from "./components/products/ProductList.jsx";
 
 function App() {
   return (
-    <div className="container">
+    <>
       <Header />
-      <ProductList />
-    </div>
+      <main className="container">
+        <ProductList />
+      </main>
+    </>
   );
 }
 

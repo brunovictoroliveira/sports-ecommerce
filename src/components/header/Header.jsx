@@ -6,10 +6,12 @@ import Logo from "../../assets/Logo.png";
 function Header() {
   return (
     <header className={styles.header}>
-      <div className={styles.logo}>
-        <img src={Logo} alt="GGMIX Logo" />
+      <div className={styles.headerContent}>
+        <div className={styles.logo}>
+          <img src={Logo} alt="GGMIX Logo" />
+        </div>
+        <SearchBar />
       </div>
-      <SearchBar />
       <Navbar />
     </header>
   );
